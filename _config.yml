@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Code, Queries & Curiousity! <br>
   SELECT * FROM life
   
-remote_theme: pages-themes/modernist
+remote_theme: pages-themes/time-machine
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
